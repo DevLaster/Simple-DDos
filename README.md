@@ -2,7 +2,7 @@
 This is a simple python ddos code for just see how an packet sends to an server enjoy!
 
 
- <h1 align="center">LasterBomber- Discord : 357r</h1>
+ <h1 align="center"> Discord : 357r</h1>
  
 
 <!-- ABOUT THE PROJECT -->
