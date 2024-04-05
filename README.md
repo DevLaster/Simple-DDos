@@ -27,14 +27,14 @@ that we can send lot ot packet to some web servers and we made a simple ddos scr
 
   ```
 
-### Installation
+ ### Installation
 
 1. Clone the repo
    ```sh
- git clone https://github.com/DevLaster/Simple-DDos.git
-
- 2. Run in cmd when you insall all the Libraries
-   ```
+   git clone https://github.com/DevLaster/Simple-DDos.git
+   
+2. Run in cmd when you insall all the Libraries
+   ```sh
    python ddos.py
 
 3. Enjoy (:
